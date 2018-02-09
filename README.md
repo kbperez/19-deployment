@@ -3,7 +3,7 @@
 This project uses AWS S3 storage to upload static assets and receive a url that contains the previously uploaded static asset.  It uses AWS secret and public access keys to communicate with AWS S3.
 
 **Installation**
-Fork this repository and install on your machine using git clone. Switch to the lab-karen folder.
+Fork this repository and install on your machine using git clone. 
 
 This project requires Node JS and npm( Node package manager). You will also need a method to create RESTFUL operation statement; a utility like HTTPie or Postman will do this.
 
