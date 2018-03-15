@@ -1,7 +1,7 @@
 {
-  "name": "19-deployment",
+  "name": "43-load-testing",
   "version": "1.0.0",
-  "description": "deploy to Heroku with Travis-ci",
+  "description": "load test with artillery",
   "main": "index.js",
   "directories": {
     "lib": "lib"

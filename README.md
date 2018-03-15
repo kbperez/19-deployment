@@ -1,4 +1,4 @@
-## Lab 19 - Deployment
+## Lab 43 - load-testing
 
 This project uses AWS S3 storage to upload static assets and receive a url that contains the previously uploaded static asset.  It uses AWS secret and public access keys to communicate with AWS S3.
 
