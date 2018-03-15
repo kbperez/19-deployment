@@ -13,11 +13,11 @@
       "flow": [
         {
           "post": {
-            "url": "/signup",
+            "url": "/api/v1/signup",
             "json": {
-              "username": "gregor",
-              "email": "gregor@hound.com",
-              "password": "gregor"
+              "username": "karen",
+              "email": "karen@karen.com",
+              "password": "karen"
             }
           }
         }
